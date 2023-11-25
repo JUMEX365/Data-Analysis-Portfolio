@@ -8,25 +8,28 @@ To view the project - follow the link or download the html file.
 3) Confirmatory Factor Analysis_Satisfaction of Self.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Confirmatory%20Factor%20Analysis_Satisfaction%20of%20Self.html
 
-5) Experiment_effect of Universal Basic Income implementation.html⠀⠀⠀(RStudio)    
+4) Experiment_effect of Universal Basic Income implementation.html⠀⠀⠀(RStudio)    
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Experiment_effect%20of%20Universal%20Basic%20Income%20implementation.html
 
-6) Factor Analysis_What influences love at first sight.html⠀⠀⠀(RStudio)    
+5) Exploratory Factor Analysis_Satisfaction Of Self.html⠀⠀⠀(RStudio)   
+   https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Exploratory%20Factor%20Analysis_Satisfaction%20Of%20Self.html
+
+7) Factor Analysis_What influences love at first sight.html⠀⠀⠀(RStudio)    
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Factor%20Analysis_What%20influences%20love%20at%20first%20sight.html
 
-7) Linear Regression models test_Life Satisfaction prediction.html⠀⠀⠀(RStudio)         
+8) Linear Regression models test_Life Satisfaction prediction.html⠀⠀⠀(RStudio)         
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Linear%20Regression%20models%C2%A0test_Life%20Satisfaction%20prediction.html
 
-8) Logistic Regression model_Trust analysis.html⠀⠀⠀(RStudio)
+9) Logistic Regression model_Trust analysis.html⠀⠀⠀(RStudio)
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Logistic%20Regression%20model_Trust%20analysis.html
 
-9) Multidimensional Scaling_Emissions by Country.html⠀⠀⠀(RStudio)       
+10) Multidimensional Scaling_Emissions by Country.html⠀⠀⠀(RStudio)       
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Multidimensional%20Scaling_Emissions%20by%20Country.html
 
-10) Population prediction_Slovenia vs EU.html⠀⠀⠀(RStudio)      
+11) Population prediction_Slovenia vs EU.html⠀⠀⠀(RStudio)      
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Population%20prediction_Slovenia%20vs%20EU.html
 
-11) Principal Component Analysis_Indian Stock Market.html⠀⠀⠀(RStudio)   
+12) Principal Component Analysis_Indian Stock Market.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Principal%20Component%20Analysis_Indian%20Stock%20Market.html
 
 
