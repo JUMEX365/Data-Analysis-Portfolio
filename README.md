@@ -38,5 +38,6 @@ To view the project - follow the link or download the html file.
 12) Regression + Factor analysis_What affects math performance.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Regression%20%2B%20Factor%20analysis_What%20affects%20math%20performance%C2%A0.html
 
-13) 
+13) Regression Model diagnostics_N of students prediction.html⠀⠀⠀(RStudio)   
+   https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Regression%20Model%20diagnostics_N%20of%20students%20prediction.html
    
