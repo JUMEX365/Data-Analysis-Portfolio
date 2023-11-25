@@ -23,15 +23,16 @@ To view the project - follow the link or download the html file.
 8) Logistic Regression model_Trust analysis.html⠀⠀⠀(RStudio)
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Logistic%20Regression%20model_Trust%20analysis.html
 
-9)
+9) Logistic regression (+probit)_Drinking prediction.html⠀⠀⠀(RStudio)
+   https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Logistic%20regression%C2%A0(%2Bprobit)_Drinking%20prediction.html
 
-10) Multidimensional Scaling_Emissions by Country.html⠀⠀⠀(RStudio)       
+11) Multidimensional Scaling_Emissions by Country.html⠀⠀⠀(RStudio)       
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Multidimensional%20Scaling_Emissions%20by%20Country.html
 
-11) Population prediction_Slovenia vs EU.html⠀⠀⠀(RStudio)      
+12) Population prediction_Slovenia vs EU.html⠀⠀⠀(RStudio)      
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Population%20prediction_Slovenia%20vs%20EU.html
 
-12) Principal Component Analysis_Indian Stock Market.html⠀⠀⠀(RStudio)   
+13) Principal Component Analysis_Indian Stock Market.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Principal%20Component%20Analysis_Indian%20Stock%20Market.html
 
 
