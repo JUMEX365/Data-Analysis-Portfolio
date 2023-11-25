@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-Here are my works on data analysis done both for scientific purposes and for fun.
+Here are my works on data analysis done both for scientific purposes and for fun.   
 To view the project (code in Rstudio) - follow the link or download an html file.
 
 1) Analysis of Population prediction_Slovenia vs EU.html   
