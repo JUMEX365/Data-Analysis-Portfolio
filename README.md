@@ -1,7 +1,8 @@
 # Data-Analysis-Portfolio
 **Here are my selected works on data analysis done both for scientific purposes and for fun**    
 
-**To view the project - follow the link or download the html file**
+**To view RStudio project - follow the link or download the html file**
+
 1) SOLUTION of test task from lead product analyst on VK-advertisement (SQL Clickhouse)
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql
    
