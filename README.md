@@ -41,4 +41,6 @@
 
 13) Regression Model diagnostics_N of students prediction.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Regression%20Model%20diagnostics_N%20of%20students%20prediction.html
+
+14) https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql
    
