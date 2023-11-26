@@ -21,10 +21,10 @@
 6) Linear Regression models test_Life Satisfaction prediction.html⠀⠀⠀(RStudio)    
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Linear%20Regression%20models%C2%A0test_Life%20Satisfaction%20prediction.html
 
-7) Logistic Regression model_Trust analysis.html⠀⠀⠀(RStudio)   
+7) Logistic Regression model_Trust analysis.html⠀⠀⠀(RStudio)      
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Logistic%20Regression%20model_Trust%20analysis.html
 
-8) Logistic regression (+probit)_Drinking prediction.html⠀⠀⠀(RStudio)
+8) Logistic regression (+probit)_Drinking prediction.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Logistic%20regression%C2%A0(%2Bprobit)_Drinking%20prediction.html
 
 9) Multidimensional Scaling_Emissions by Country.html⠀⠀⠀(RStudio)       
