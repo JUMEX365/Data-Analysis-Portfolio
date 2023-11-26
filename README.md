@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-**Here are my selected works on data analysis done  for scientific purposes or for fun**    
+**Here are my selected works on data analysis done both for scientific purposes and for fun**    
 
 **To view the project - follow the link or download the html file**
 
