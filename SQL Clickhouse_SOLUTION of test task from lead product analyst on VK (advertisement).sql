@@ -8,12 +8,6 @@
  
 Выведите все уникальные комбинации процессор - память - графика из таблицы necessary_hardware и посчитайте количество каждой уникальной комбинации*/
 
-SELECT DISTINCT processor, memory, graphics
-FROM twitter.necessary_hardware;
-
-/* Решение, допиленное до ума (дополнительно): 
-оконной функцией посчитано кол-во ТАКИХ значений уникальных комбинаций процессора, оперативки и видиокарты*/
-
 SELECT DISTINCT  processor, memory, graphics,
 	COUNT(*) OVER(PARTITION BY processor, memory, graphics) AS N_of_this_unq_comb
 FROM twitter.necessary_hardware
