@@ -94,7 +94,7 @@ ORDER BY games.developer, open_critic.date DESC;
 /*Решение 1 (ОСНОВНОЕ), если twitter.games.name = game и надо джоинить таблицы games и twitter_accounts */
 SELECT games.id, games.name AS game,
 	COUNT (twitter_accounts.followers) AS total_accounts_per_game,
-	COUNT (CASE WHEN twitter_accounts.followers >= 1000 THEN 1 ELSE NULL END) AS count_accounts_with_1000_or_more_followers_per_game, /*тут вместо 0 - NULL, т.к. почему то SQL сам рекодит 0 в 1*/
+	COUNT (CASE WHEN twitter_accounts.followers >= 1000 THEN 1 ELSE NULL END) AS count_accounts_with_1000_or_more_followers_per_game, 
 	100 * count_accounts_with_1000_or_more_followers_per_game / total_accounts_per_game AS percent_accounts_with_1000_or_more_followers
 FROM twitter.games
 LEFT JOIN twitter.twitter_accounts 
@@ -105,7 +105,7 @@ ORDER BY percent_accounts_with_1000_or_more_followers;
 /*Решение 2 (АЛЬТЕРАНТИВНОЕ), если twitter.twitter_accounts = game прямо из этой таблицы*/
 SELECT id, name,
 	COUNT (followers) AS total_accounts_per_game,
-	COUNT (CASE WHEN followers >= 1000 THEN 1 ELSE null END) AS count_accounts_with_1000_or_more_followers_per_game, /*тут вместо 0 - NULL, т.к. почему то SQL сам рекодит 0 в 1*/
+	COUNT (CASE WHEN followers >= 1000 THEN 1 ELSE null END) AS count_accounts_with_1000_or_more_followers_per_game, 
 	100 * count_accounts_with_1000_or_more_followers_per_game / total_accounts_per_game AS percent_accounts_with_1000_or_more_followers
 FROM twitter.twitter_accounts
 GROUP BY id, name
