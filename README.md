@@ -1,12 +1,13 @@
 # Data-Analysis-Portfolio
 **Here are my selected works on data analysis done both for scientific purposes and for fun**    
 
-**To view RStudio projects - follow the link or download the html file**
+**To look RStudio projects - follow the link or download the html file**
 
-1) SOLUTION of test task from lead product analyst on VK-advertisement (SQL Clickhouse)  - [View](https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql) 
+1) SOLUTION of test task from lead product analyst on VK-advertisement (SQL Clickhouse)  - [View](
+https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql) 
 
-3) Compilation of Projects_profile of Hungary.html⠀⠀⠀(RStudio)    
-   https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Compilation%20of%20Projects_profile%20of%20Hungary.html
+3) Compilation of Projects_profile of Hungary.html⠀⠀⠀(RStudio) [View](   
+   https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Compilation%20of%20Projects_profile%20of%20Hungary.html)
    
 4) Confirmatory Factor Analysis_Satisfaction of Self.html⠀⠀⠀(RStudio)   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Confirmatory%20Factor%20Analysis_Satisfaction%20of%20Self.html
