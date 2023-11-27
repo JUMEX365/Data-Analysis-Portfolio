@@ -446,10 +446,8 @@ INSERT INTO streams (stream_id, viewer_id, view_start_timestamp, view_end_timest
 					AND all_events.stream_id = copy2.stream_id 
 					AND copy2.event_name = 'view_end'
 			WHERE date_trunc('day', view_end_timestamp) = date_trunc('day', (dateSub(now(), toDate('1 day'))))
-				AND all_events.event_name = 'view_start')
-				), 
-				-- Есть проблема: Зритель может в рамках дня посмотреть один и тот же стрим Х несколько раз, т.к в этом случае и stream_id и user_id 
-				-- будут идентичными и при джойне получим массовое создание несуществующих просмотров. Например: 14:10-14:20, 14:10-18:00, 17:30-14:20, 17:30-18:00.
+				AND all_events.event_name = 'view_start')    -- Есть проблема: Зритель может в рамках дня посмотреть один и тот же стрим Х несколько раз, т.к в этом случае и stream_id и user_id 
+				),                                           -- будут идентичными и при джойне получим массовое создание несуществующих просмотров. Например: 14:10-14:20, 14:10-18:00, 17:30-14:20, 17:30-18:00.
 	CTE_TAB_2 AS (
 	SELECT stream_id, viewer_id, view_start_timestamp, view_end_timestamp, partition_date, 
 	ROW_NUMBER() OVER (PARTITION BY stream_id, viewer_id, view_start_timestamp  ORDER BY view_end_timestamp ASC) AS rn
