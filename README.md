@@ -1,6 +1,7 @@
 # Data-Analysis-Portfolio
-**Here are my selected works on data analysis done both for scientific purposes and for fun**    
+**Here are my selected works on data analysis done for applied or scientific purposes**    
 
+      
 **To view the project - just follow the link**
 
 1) SOLUTION of test task from lead product analyst on VK-advertisement⠀-⠀[(SQL Clickhouse)](
