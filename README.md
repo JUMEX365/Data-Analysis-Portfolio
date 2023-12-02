@@ -5,7 +5,9 @@
 **To view the project - just follow the link**
 
 1) SOLUTION of test task from lead product analyst on VK-advertisement.sql⠀-⠀[(SQL Clickhouse)](
-   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql) 
+   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql)
+
+2) -⠀[(SQL)](https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20task%20in%20SQL%20from%20Axenix%20co.sql
 
 3) Compilation of Projects_profile of Hungary.html⠀-⠀[(RStudio)](   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Compilation%20of%20Projects_profile%20of%20Hungary.html)
