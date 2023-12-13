@@ -10,7 +10,7 @@
 2) SOLUTION of SQL test task - Axenix co.sql -⠀[(SQL)](
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20task%20in%20SQL%20from%20Axenix%20co.sql)      
 
-3) SOLUTION of SQL test task - Tinkoff bank.sql -⠀[(SQLite)](
+3) SOLUTION of SQL test task - Tinkoff bank.ipynb -⠀[(SQLite)](
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20tast%20in%20SQL%20-%20Tinkoff%20bank.ipynb)
 
 4) Compilation of Projects_profile of Hungary.html⠀-⠀[(RStudio)](   
