@@ -8,7 +8,7 @@
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20SQL%20test%20task%20-%20from%20lead%20product%20analyst%20on%20VK-advertisement.sql)
 
 2) SOLUTION of SQL test task - Axenix co.sql -⠀[(SQL)](
-   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20task%20in%20SQL%20from%20Axenix%20co.sql)      
+   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20SQL%20test%20task%20-%20Axenix%20co.sql)      
 
 3) SOLUTION of SQL test task - Tinkoff bank.ipynb -⠀[(SQLite)](
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20tast%20in%20SQL%20-%20Tinkoff%20bank.ipynb)
