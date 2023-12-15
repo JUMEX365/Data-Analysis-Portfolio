@@ -5,7 +5,7 @@
 **To view the project - just follow the link**
 
 1) SOLUTION of SQL test task - from lead product analyst on VK-advertisement.sql⠀-⠀[(SQL Clickhouse)](
-   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SQL%20Clickhouse_SOLUTION%20of%20test%20task%20from%20lead%20product%20analyst%20on%20VK%20(advertisement).sql)
+   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20SQL%20test%20task%20-%20from%20lead%20product%20analyst%20on%20VK-advertisement.sql)
 
 2) SOLUTION of SQL test task - Axenix co.sql -⠀[(SQL)](
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20task%20in%20SQL%20from%20Axenix%20co.sql)      
