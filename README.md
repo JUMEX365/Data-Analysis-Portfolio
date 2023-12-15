@@ -11,7 +11,7 @@
    https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20SQL%20test%20task%20-%20Axenix%20co.sql)      
 
 3) SOLUTION of SQL test task - Tinkoff bank.ipynb -⠀[(SQLite)](
-   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20test%20tast%20in%20SQL%20-%20Tinkoff%20bank.ipynb)
+   https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/SOLUTION%20of%20SQL%20test%20task%20-%20Tinkoff%20bank.ipynb)
 
 4) Compilation of Projects_profile of Hungary.html⠀-⠀[(RStudio)](   
    https://htmlpreview.github.io/?https://github.com/JUMEX365/Data-Analysis-Portfolio/blob/Best-projects/Compilation%20of%20Projects_profile%20of%20Hungary.html)
