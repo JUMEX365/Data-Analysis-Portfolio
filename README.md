@@ -1,4 +1,4 @@
-# Scientific Data Analysys
+# Data-Analysis-Portfolio
 **Here are my selected works on data analysis done for applied or scientific purposes**    
 
       
